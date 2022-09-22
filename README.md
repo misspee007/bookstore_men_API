@@ -1,6 +1,6 @@
 # bookstore_men_API
 
-## Descrition
+## Description
 CRUD API
 
 ## Tools
